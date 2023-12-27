@@ -1,0 +1,17 @@
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\bin\Debug\CapaEntidades.xml
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\obj\Debug\CapaEntidades.vbproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\obj\Debug\CapaEntidades.Resources.resources
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\obj\Debug\CapaEntidades.vbproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\obj\Debug\CapaEntidades.vbproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\obj\Debug\CapaEntidades.xml
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\bin\Debug\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\bin\Debug\System.Data.SqlClient.xml
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\obj\Debug\CapaEntidades.vbproj.CopyComplete
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\bin\Debug\CapaDatos.dll
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\bin\Debug\CapaDatos.pdb
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\bin\Debug\CapaDatos.xml
+C:\Users\angel\OneDrive\Documentos\Angel UTP 1 Semestre 2022\HERRAMIENTAS DE PROGR. APLICADAS III\ProyFinal_Eq04\PF_Eq04_SisClinico\CapaEntidades\bin\Debug\CapaDatos.dll.config
